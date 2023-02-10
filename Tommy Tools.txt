@@ -1,0 +1,29 @@
+Explain the web architecture and the client server model. 
+What is the difference between frontend development and backend development.
+We are going to use these tools in the next super skills (HTML, CSS, JS), explain what these tools are and how the work together. 
+How does the web works? 
+What is an API?
+
+https://paraphrasing-tool.com/
+
+pligelism
+
+https://learn.gomycode.co/login?
+
+$
+
+OKOH@DESKTOP-0FBDKAS MINGW64 ~
+$ git config --global user.name "okohchiedu"
+
+OKOH@DESKTOP-0FBDKAS MINGW64 ~
+$ git config --global user.email "okohthomas35@gmail.com"
+
+OKOH@DESKTOP-0FBDKAS MINGW64 ~
+$  cd desktop
+
+OKOH@DESKTOP-0FBDKAS MINGW64 ~/desktop
+$ pwd
+/c/Users/OKOH/desktop
+$ls,.... to list what is on the desktop
+/c/Users/OKOH/desktop
+$ cd .....to remove it from desktop

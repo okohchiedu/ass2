@@ -1,0 +1,19 @@
+today presentation.....
+introduction....git and github
+
+git is a distributed/version  control system that help you manage 
+
+take home
+html attribute.....
+
+Git definition: Git is a DevOps tool used for source code management
+Github Definition:GitHub is a code hosting platform for collaboration and version control
+
+ask the instructor why Themes require visual studio code
+
+Since you’ll be looking at your editor every day, why not make it as pretty as possible? There are tons of customization plugins that change the color scheme and the icons in the sidebar. Some popular themes that are available for free are One Monokai, One Dark Pro, and Material Icon. 
+
+2/02/23
+
+html workshop
+
